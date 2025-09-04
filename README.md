@@ -1,3 +1,5 @@
-# Image Captioning
+# Emotions and Faces
 
-Generation captions for images using Pytorch
+Detecting Faces with Open CV
+and
+Using DeepFace to classify emotions of faces
